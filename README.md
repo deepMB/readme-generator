@@ -1,4 +1,3 @@
-```markdown
 # Readme Generator using Streamlit and Google Gemini
 
 This Streamlit application uses Google Gemini's large language model to generate a README.md file for your code.  Simply upload your code file, and the app will generate a README based on its content.
@@ -58,4 +57,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
